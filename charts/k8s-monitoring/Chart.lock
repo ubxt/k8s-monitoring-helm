@@ -47,6 +47,9 @@ dependencies:
 - name: feature-profiles-receiver
   repository: ""
   version: 1.0.0
+- name: feature-loki-logs-receiver
+  repository: ""
+  version: 1.0.0
 - name: feature-prometheus-operator-objects
   repository: ""
   version: 1.0.0
@@ -59,5 +62,5 @@ dependencies:
 - name: alloy-operator
   repository: https://grafana.github.io/helm-charts
   version: 0.7.0
-digest: sha256:262378b546239c9e3e9bbf38a9b797bf59cd0d1652206af4902e71aba0256300
-generated: "2026-08-24T12:38:46.344832-05:00"
+digest: sha256:fefc9a85e3effdc78c53d5bab399e5436f166341c982fef92a38dec2f2e4d9d8
+generated: "2026-08-24T15:02:23.788868-05:00"
